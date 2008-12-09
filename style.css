@@ -227,13 +227,12 @@ form.login a:hover{
 	background-color:#FFFFFF; text-align:center; text-decoration:none;}
 /* footer end -- */
 
-
-
-
-
-
-
-
-
-
-
+/* EXTRA */
+#register img{
+	margin-left:250px;
+	text-decoration: none;
+	border: 0;
+}
+a#register, a#register:visited{
+	text-decoration: none;
+}
