@@ -62,6 +62,7 @@ ul{ list-style:none;}
 #body div.category{
 	padding:25px 0 0 0;}
 #body ul{padding-left: 2em; list-style:disc; padding-bottom: 1em;}
+#body ul.hotels ul{ list-style:none;}
 .pink{
 	width:182px; padding:7px 15px 50px; float:left;
 	background:url(images/pink_bg.gif) no-repeat 0 0 #F7F7F7; color:#4B2B3E;}
